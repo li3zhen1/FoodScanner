@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in closure #3 in ScannableRecipe.detectRecipes(on:):ScannableRecipe.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "joinedText.">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
